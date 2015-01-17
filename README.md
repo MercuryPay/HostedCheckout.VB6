@@ -20,8 +20,8 @@ A VB6 application that demonstrates integrating to HostedCheckout using a webbro
     sEnv = sEnv & "<soapenv:Body>"
     sEnv = sEnv & "<xsd:InitializePayment>"
     sEnv = sEnv & "<xsd:request>"
-        sEnv = sEnv & "<xsd:MerchantID>494691720</xsd:MerchantID>"
-        sEnv = sEnv & "<xsd:Password>KRD%8rw#+p9C13,T</xsd:Password>"
+        sEnv = sEnv & "<xsd:MerchantID></xsd:MerchantID>"
+        sEnv = sEnv & "<xsd:Password></xsd:Password>"
         sEnv = sEnv & "<xsd:Invoice>3472</xsd:Invoice>"
         sEnv = sEnv & "<xsd:TotalAmount>7.50</xsd:TotalAmount>"
         sEnv = sEnv & "<xsd:TaxAmount>0</xsd:TaxAmount>"
@@ -88,7 +88,7 @@ With xmlHtp
         .setRequestHeader "soapAction", "http://www.mercurypay.com/VerifyPayment"
         Text2.Text = sEnv
         .send sEnv
-        
+End With
     
 ```
 
