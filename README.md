@@ -1,0 +1,1 @@
+# HostedCheckout.VB6
