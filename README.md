@@ -1,6 +1,13 @@
 HostedCheckout.VB6
 ====================
 
+* If you **need help**, use [Stack Overflow](http://stackoverflow.com) and tag 'mercurypay'
+* If you have a **feature request**, open an issue.
+* If you want to **contribute**, submit a pull request.
+* If you have any questions please contact:  integrationteam@mercurypay.com
+
+## Overview
+
 A VB6 application that demonstrates integrating to HostedCheckout using a webbrowser control.
 
 Note: depending on which operating system you are using for your development environment you may need to experiment with the MSXML2 control and the webbrowser control.  This project uses Windows&trade; 7 64bit and requires the XMLHTTP60 vs. XMLHTTP20 interface.
