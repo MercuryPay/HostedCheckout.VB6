@@ -1,7 +1,7 @@
 HostedCheckout.VB6
 ====================
 
-* More documentation?  developer.mercurypay.com
+* More documentation?  http://developer.mercurypay.com
 * Questions?  integrationteam@mercurypay.com
 * **Feature request?** Open an issue.
 * Feel like **contributing**?  Submit a pull request.
