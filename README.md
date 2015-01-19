@@ -3,7 +3,7 @@ HostedCheckout.VB6
 
 A VB6 application that demonstrates integrating to HostedCheckout using a webbrowser control.
 
-Note: depending on which operating system you are using for your development environment you may need to experiment with the MSXML2 control and the webbrowser control.  This project uses Windows$reg; 7 64bit and requires the XMLHTTP60 vs. XMLHTTP20 interface.
+Note: depending on which operating system you are using for your development environment you may need to experiment with the MSXML2 control and the webbrowser control.  This project uses Windows&trade; 7 64bit and requires the XMLHTTP60 vs. XMLHTTP20 interface.
 
 >There are 3 steps to process a payment with Mercury's Hosted Checkout platform.
 
