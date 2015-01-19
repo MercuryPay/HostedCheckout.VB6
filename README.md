@@ -1,10 +1,11 @@
 HostedCheckout.VB6
 ====================
 
-* If you **need help**, use [Stack Overflow](http://stackoverflow.com) and tag 'mercurypay'
-* If you have a **feature request**, open an issue.
-* If you want to **contribute**, submit a pull request.
-* If you have any questions please contact:  integrationteam@mercurypay.com
+* More documentation?  developer.mercurypay.com
+* Questions?  integrationteam@mercurypay.com
+* **Feature request?** Open an issue.
+* Feel like **contributing**?  Submit a pull request.
+
 
 ## Overview
 
